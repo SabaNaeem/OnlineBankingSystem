@@ -1,0 +1,5 @@
+username,Date,transaction_type,amount
+lee,2024-06-28 14:15:19,transfer from nina,990.0
+lee,2024-06-28 18:33:44,deposit,10000.0
+lee,2024-06-28 18:33:57,withdraw,1000.0
+lee,2024-06-28 18:34:54,transfer to ana,100.0

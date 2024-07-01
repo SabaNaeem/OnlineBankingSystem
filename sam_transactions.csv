@@ -1,0 +1,6 @@
+username,Date,transaction_type,amount
+sam,2024-06-28 15:54:52,deposit,10000.0
+sam,2024-06-28 15:55:07,withdraw,100.0
+sam,2024-06-28 15:55:16,transfer to nina,100.0
+sam,2024-06-28 16:01:34,deposit,1000.0
+sam,2024-06-28 16:09:42,transfer to nina,1000.0

@@ -1,0 +1,4 @@
+username,Date,transaction_type,amount
+nina,2024-06-28 14:14:50,deposit,2000.0
+nina,2024-06-28 14:15:00,withdraw,10.0
+nina,2024-06-28 14:15:19,transfer to lee,990.0

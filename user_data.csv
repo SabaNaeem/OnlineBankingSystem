@@ -1,0 +1,6 @@
+username,pin,freeze,balance,limit
+sam,$2b$12$iuvdbHKJyWoBUdLOVsv1Vev3XonFN5yHMWXFSCDra5YU5ST/uTta6,True,9700.0,1000.0
+ana,$2b$12$DgoerrCBLr2otH/ls5jn/O4hfAv6fDOpyrPikZxs/XpZ3hnp4Ca/C,False,0,1000.0
+lee,$2b$12$4H/K..UtFRerUPve2eeVpeojcv1rl8bzm5797S/2TW5qkKPlfcUYK,False,9000.0,9223372036854775807
+kashuf,$2b$12$illjQznShNJ/u/tlo/lke.4puEzp.Iv5tLD0TOPq43b4N4sMZogsC,False,0,9223372036854775807
+laiba,$2b$12$Fmzlq74pUdRrBB80BkvsBumMmqeCV1zxEqkcjoNcrvZWgpwUNJRQO,False,500.0,9223372036854775807

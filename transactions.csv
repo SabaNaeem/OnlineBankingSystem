@@ -1,0 +1,31 @@
+username,date,type,amount
+sabaa,2024-06-27 19:08:16,deposit,100.0
+sabaa,2024-06-27 19:08:59,withdraw,60.0
+sabaa,2024-06-27 19:09:44,transfer to {recipient.username},100.0
+sabaa,2024-06-27 19:24:59,transfer to {recipient},10.0
+sabaa,2024-06-28 12:06:40,deposit,1000.0
+saba,2024-06-28 12:15:34,deposit,1000.0
+sabaa,2024-06-28 12:51:38,deposit,10.0
+sabaa,2024-06-28 12:55:17,deposit,10.0
+sabaa,2024-06-28 12:55:34,deposit,1000.0
+sabaa,2024-06-28 12:56:25,withdraw,10.0
+sabaa,2024-06-28 13:00:08,transfer to saba,100.0
+sabaa,2024-06-28 13:02:11,transfer to saba,100.0
+saba,2024-06-28 13:02:11,transfer from {self.username},100.0
+nina,2024-06-28 14:14:50,deposit,2000.0
+nina,2024-06-28 14:15:00,withdraw,10.0
+nina,2024-06-28 14:15:19,transfer to lee,990.0
+lee,2024-06-28 14:15:19,transfer from nina,990.0
+sam,2024-06-28 15:54:52,deposit,10000.0
+sam,2024-06-28 15:55:07,withdraw,100.0
+sam,2024-06-28 15:55:16,transfer to nina,100.0
+nina,2024-06-28 15:55:16,transfer from sam,100.0
+sam,2024-06-28 16:01:34,deposit,1000.0
+sam,2024-06-28 16:09:42,transfer to nina,1000.0
+nina,2024-06-28 16:09:42,transfer from sam,1000.0
+sam,2024-06-28 16:46:00,withdraw,100.0
+lee,2024-06-28 18:33:44,deposit,10000.0
+lee,2024-06-28 18:33:57,withdraw,1000.0
+lee,2024-06-28 18:34:54,transfer to ana,100.0
+ana,2024-06-28 18:34:54,transfer from lee,100.0
+laiba,2024-07-01 14:33:42,deposit,500.0
